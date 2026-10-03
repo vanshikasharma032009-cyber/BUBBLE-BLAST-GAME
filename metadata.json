@@ -1,0 +1,6 @@
+{
+  "name": "Block Blast Game",
+  "description": "A puzzle game where you place blocks on a grid to clear lines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
