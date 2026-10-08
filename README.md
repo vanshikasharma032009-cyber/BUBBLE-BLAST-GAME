@@ -1,9 +1,10 @@
+Hi,i am vanshika
 # 🫧 Bubble Blast Game 💥
-
 <p align="center">
   <strong>🫧 POP • 💥 BLAST • 🏆 SCORE • 🔥 WIN</strong>
 </p>
 <img width="910" height="510" alt="image" src="https://github.com/user-attachments/assets/afaf3cc8-5d7f-4e07-ba7c-aed363d9d9bb" />
+<img width="917" height="519" alt="image" src="https://github.com/user-attachments/assets/0fb760f6-7f62-4986-8b02-5c1f0d01cb5c" />
 
 <p align="center">
   A colorful and exciting bubble-blasting game built for fun and fast-paced gameplay.
